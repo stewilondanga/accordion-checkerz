@@ -136,11 +136,12 @@ body {
   padding-top: 2rem;
 }
 
-/*.collapse-section [type="checkbox"]:checked ~ .collapse-heading {
+.collapse-section [type="checkbox"]:checked~.collapse-heading {
   background: #A033FF;
   color: white;
 }
-.collapse-section [type="checkbox"]:checked ~ .collapse-heading .toggle-icon {
+
+/*.collapse-section [type="checkbox"]:checked ~ .collapse-heading .toggle-icon {
   opacity: 1;
   -webkit-transform: translateY(-50%) rotate(0);
           transform: translateY(-50%) rotate(0);
