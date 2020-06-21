@@ -79,10 +79,11 @@ body {
   width: 100%;
 }
 
-/*.collapse-heading .title {
+.collapse-heading .title {
   color: #A033FF;
 }
-.collapse-heading .toggle-icon {
+
+/*.collapse-heading .toggle-icon {
   width: 1.5rem;
   height: 1.5rem;
   display: block;
