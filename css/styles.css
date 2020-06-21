@@ -124,10 +124,11 @@ body {
   border-bottom-left-radius: 1rem;
 }
 
-/*.collapse-section:not(:last-of-type) {
+.collapse-section:not(:last-of-type) {
   border-bottom: 0.0625rem solid #ddd;
 }
-.collapse-section [type="checkbox"]:checked ~ .collapse-content {
+
+/*.collapse-section [type="checkbox"]:checked ~ .collapse-content {
   max-height: 30rem;
   opacity: 1;
   overflow: visible;
