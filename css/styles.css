@@ -128,14 +128,15 @@ body {
   border-bottom: 0.0625rem solid #ddd;
 }
 
-/*.collapse-section [type="checkbox"]:checked ~ .collapse-content {
+.collapse-section [type="checkbox"]:checked~.collapse-content {
   max-height: 30rem;
   opacity: 1;
   overflow: visible;
   padding-bottom: 2rem;
   padding-top: 2rem;
 }
-.collapse-section [type="checkbox"]:checked ~ .collapse-heading {
+
+/*.collapse-section [type="checkbox"]:checked ~ .collapse-heading {
   background: #A033FF;
   color: white;
 }
