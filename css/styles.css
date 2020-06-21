@@ -83,7 +83,7 @@ body {
   color: #A033FF;
 }
 
-/*.collapse-heading .toggle-icon {
+.collapse-heading .toggle-icon {
   width: 1.5rem;
   height: 1.5rem;
   display: block;
@@ -93,12 +93,12 @@ body {
   right: 2rem;
   top: 50%;
   -webkit-transform: translateY(-50%) rotate(180deg);
-          transform: translateY(-50%) rotate(180deg);
+  transform: translateY(-50%) rotate(180deg);
   -webkit-transition: all 0.15s;
   transition: all 0.15s;
 }
 
-.collapse-toggle {
+/*.collapse-toggle {
   position: absolute;
   margin: -1px;
   border: 0;
