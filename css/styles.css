@@ -163,11 +163,12 @@ body {
   width: 100%;
 }
 
-/*.collapse-content .intro {
+.collapse-content .intro {
   font-size: 1.1rem;
   line-height: 1.5;
 }
-.collapse-content p {
+
+/*.collapse-content p {
   font-size: 0.9rem;
   line-height: 1.8;
 }
