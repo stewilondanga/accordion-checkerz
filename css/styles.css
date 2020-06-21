@@ -2,6 +2,10 @@
   box-sizing: inherit;
 }
 
+html {
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -26,9 +30,6 @@
 }
 
 
-html {
-  box-sizing: border-box;
-}
 
 body {
   background: white;
