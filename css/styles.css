@@ -141,12 +141,13 @@ body {
   color: white;
 }
 
-/*.collapse-section [type="checkbox"]:checked ~ .collapse-heading .toggle-icon {
+.collapse-section [type="checkbox"]:checked~.collapse-heading .toggle-icon {
   opacity: 1;
   -webkit-transform: translateY(-50%) rotate(0);
-          transform: translateY(-50%) rotate(0);
+  transform: translateY(-50%) rotate(0);
 }
-.collapse-section [type="checkbox"]:checked ~ .collapse-heading .title {
+
+/*.collapse-section [type="checkbox"]:checked ~ .collapse-heading .title {
   color: white;
 }
 
