@@ -39,7 +39,7 @@ body {
   width: 100%;
 }
 
-/*@media (min-width: 61.94rem) {
+@media (min-width: 61.94rem) {
   .container-md {
     margin-left: auto;
     margin-right: auto;
@@ -47,7 +47,7 @@ body {
   }
 }
 
-.page-header {
+/*.page-header {
   padding-top: 3rem;
   padding-bottom: 0;
 }
