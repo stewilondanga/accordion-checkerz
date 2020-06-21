@@ -119,11 +119,12 @@ body {
   border-top-left-radius: 1rem;
 }
 
-/*.collapse-section:last-of-type .collapse-content {
+.collapse-section:last-of-type .collapse-content {
   border-bottom-right-radius: 1rem;
   border-bottom-left-radius: 1rem;
 }
-.collapse-section:not(:last-of-type) {
+
+/*.collapse-section:not(:last-of-type) {
   border-bottom: 0.0625rem solid #ddd;
 }
 .collapse-section [type="checkbox"]:checked ~ .collapse-content {
