@@ -110,10 +110,11 @@ body {
   text-transform: none;
 }
 
-/*.collapse-section {
+.collapse-section {
   display: block;
 }
-.collapse-section:first-of-type .collapse-heading {
+
+/*.collapse-section:first-of-type .collapse-heading {
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
 }
