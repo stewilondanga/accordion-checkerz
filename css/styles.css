@@ -151,7 +151,7 @@ body {
   color: white;
 }
 
-/*.collapse-content {
+.collapse-content {
   background: #eee;
   max-height: 0;
   opacity: 0;
@@ -162,7 +162,8 @@ body {
   transition: all 0.15s;
   width: 100%;
 }
-.collapse-content .intro {
+
+/*.collapse-content .intro {
   font-size: 1.1rem;
   line-height: 1.5;
 }
