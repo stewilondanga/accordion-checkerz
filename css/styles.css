@@ -168,12 +168,12 @@ body {
   line-height: 1.5;
 }
 
-/*.collapse-content p {
+.collapse-content p {
   font-size: 0.9rem;
   line-height: 1.8;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
