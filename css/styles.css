@@ -57,11 +57,11 @@ body {
   padding: 0;
 }
 
-/*.page-header p {
+.page-header p {
   line-height: 1.6;
 }
 
-.accordion-group {
+/*.accordion-group {
   border-radius: 1rem;
   max-width: 46rem;
   margin: 3rem auto;
